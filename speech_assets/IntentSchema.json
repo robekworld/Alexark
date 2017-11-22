@@ -1,7 +1,8 @@
 {
   "intents": [
     {
-      "intent": "ArkPriceIntent"
+      "intent": "ArkPriceIntent",
+      "intent": "DeludedIntent"
     },
     {
       "intent": "AMAZON.HelpIntent"
