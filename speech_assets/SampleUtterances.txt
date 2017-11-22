@@ -5,3 +5,5 @@ ArkPriceIntent say price
 ArkPriceIntent price
 ArkPriceIntent price ark
 ArkPriceIntent say price ark
+DeludedIntent deluded
+DeludedIntent say Arkies
